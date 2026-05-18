@@ -1,0 +1,6 @@
+{
+  "name": "Mockup Magic",
+  "description": "Upload a logo and instantly see it placed on product mockups like mugs, t-shirts, and tote bags.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
